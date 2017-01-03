@@ -70,7 +70,7 @@ img,tr {page-break-inside: avoid;}
   </style>
 </head>
 <body>
-  <h1>Data Buku Larapus</h1>
+  <h1>Data Buku Ultraviolet Perpus</h1>
   <hr>
   <table>
     <thead>
