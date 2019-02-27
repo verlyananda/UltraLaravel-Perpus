@@ -8,7 +8,7 @@
 <h2 class="panel-title">Dashboard</h2>
 </div>
 <div class="panel-body">
-Selamat datang di Menu Admin Ultraviolet Perpus. Silahkan pilih menu yang diinginkan.
+Selamat datang di Menu Admin Ultraviolet Perpus. Silahkan pilih menu yang diinginkan bos.
 </div>
 </div>
           </section>
